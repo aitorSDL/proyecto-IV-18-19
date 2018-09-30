@@ -6,7 +6,8 @@
 
 ## Herramientas a usar.
 
-### - Python
+### - Como lenguaje de programación usare Python 
 ### - MYSQL para la gestion de usuarios.
 ### - MongoDB para la gestion de productos.
-### - flask.
+### - Como framework usare Flask 
+### - Usare Azure para el despliegue de la aplicacion del servicio.
