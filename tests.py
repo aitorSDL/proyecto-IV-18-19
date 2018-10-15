@@ -3,7 +3,7 @@
 
 
 def prueba(x):
-    return x + 3
+    return x*2 + 3
 
 def tester():
     assert prueba(4) == 5
