@@ -7,3 +7,7 @@ def prueba(x):
 
 def tester():
     assert prueba(4) == 5
+
+def pruebay(y):
+    return y + 3
+
