@@ -15,3 +15,5 @@
 ### - MongoDB para la gestion de productos.Por su rapidez y adaptabilidad ante grandes cantidades de datos.
 ### - Como framework usare Flask.Puesto que su sencillez que permite crear aplicaciones web rápidamente y con un mínimo número de líneas de código.
 ### - Usare Azure para el despliegue de la aplicacion.Puesto que me parece interesante el servicio de cloud computing y aprender a manejarme con él.
+
+[![Build Status](https://travis-ci.org/kaizensamuel/proyecto-IV-18-19.svg?branch=master)](https://travis-ci.org/kaizensamuel/proyecto-IV-18-19)
