@@ -11,7 +11,7 @@ def index():
 
 @app.route('/productos')
 def comparacion():
-    return 'Hello, pepo!'
+    return 'Hello, soy una nvidia gtx!'
 
 
 if __name__ == '__main__':
