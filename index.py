@@ -15,7 +15,7 @@ def comparacion():
     return 'Hello, soy una nvidia gtx!s'
 
 @app.route('/login')
-def comparacion():
+def comparacion(): 
     return 'Hello, sam!' 
 
 @app.route('/liga')
