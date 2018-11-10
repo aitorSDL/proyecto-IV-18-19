@@ -12,12 +12,7 @@ def index():
 
 @app.route('/productos')
 def comparacion():
-    return 'Hello, soy una nvidia gtx!s'
-
-@app.route('/login')
-def comparacion(): 
-    return 'Hello, sam!'  
-
+    return 'Hello, soy una nvidia gtx!'
 
 if __name__ == '__main__':
     app.run( port =  PORT, debug = DEBUG)
