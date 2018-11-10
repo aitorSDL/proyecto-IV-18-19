@@ -12,7 +12,7 @@ def index():
 
 @app.route('/productos')
 def comparacion():
-    return 'Hello, pepo!'
+    return 'Hello, soy una nvidia gtx!s'
 
 @app.route('/login')
 def comparacion():
