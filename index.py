@@ -16,7 +16,7 @@ def comparacion():
 
 @app.route('/login')
 def comparacion():
-    return 'Hello, sam!'
+    return 'Hello, sam!' 
 
 @app.route('/liga')
 def inicio():
