@@ -1,4 +1,4 @@
-from flask import Flask  render_template
+from flask import Flask , render_template
 
 
 app = Flask(__name__)
@@ -17,6 +17,15 @@ def comparacion():
 @app.route('/login')
 def comparacion(): 
     return 'Hello, sam!' 
+
+@app.route('/liga')
+def inicio():
+    
+    ligas = [['slashdot', 'https://slashdot.org'], 
+         ['pythonista', 'https://pythonista.io'], 
+         ['cloudevel', 'https://cloudevel.com']]
+    
+    //return render_template('src/Views/plantilla.html', lista=ligas)
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port =  PORT, debug = DEBUG)
