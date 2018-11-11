@@ -8,7 +8,7 @@ DEBUG=False
 
 @app.route('/')
 def index():
-    return render_template('hola_world.html', user=user)
+    return render_template('hola_world.html')
 
 @app.route('/productos')
 def comparacion():
