@@ -8,7 +8,27 @@ DEBUG=False
 
 @app.route('/')
 def index():
-    return render_template('base.html')
+    return 
+
+@app.route('/', methods = ['GET'])
+def status():
+    render_template('base.html')
+    response =  {"status" : "OK"}
+    return jsonify(response);
+
+@app.route('/status', methods = ['GET'])
+def status():
+    
+    response =  {"status" : "OK",
+                 "web_status" :
+                    {
+                     "total" : 10,
+                     "productos" : 20,
+                     
+                     }
+                 }
+    return jsonify(response);
+
 
 @app.route('/productos')
 def comparacion():
