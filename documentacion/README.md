@@ -1,7 +1,7 @@
 
 [![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
 
-# Documentacion
+# Documentacion herramientas a usar
 ## Herramientas a usar.
 
  - Como lenguaje de programación usare Python, puesto que lo dí en una asignatura en años anteriores y creo que tiene un gran potencial y versatilidad.
@@ -15,9 +15,15 @@
 ## Clases a usar en este proyecto:
 
 - Clase producto esta clase contendra todo lo relativo a los producto como sus atributos, su insercion en la base de datos y su obtencion de la base de datos.
-- Clase test_producto la cual realizara que la clase anteriormentente funcione correctamente para ejecutar dichos test se usara el comando  python test_Producto.py desde la carpeta src.
+- Clase test_producto la cual realizara que la clase anteriormentente funcione correctamente para ejecutar dichos test se usara el comando: 
 
+# python test_Producto.py desde la carpeta src.
 
+[Integracion Continua](https://github.com/kaizensamuel/proyecto-IV-18-19/blob/master/documentacion/IntegracionContinua.md)
+
+[Creacion de una app con flask en virtualenv](https://github.com/kaizensamuel/proyecto-IV-18-19/blob/master/documentacion/Project.md)
+
+[Heroku creacion, configuracion y despliegue](https://github.com/kaizensamuel/proyecto-IV-18-19/blob/master/documentacion/Heroku.md)
 
 
 [![Build Status](https://travis-ci.org/kaizensamuel/proyecto-IV-18-19.svg?branch=master)](https://travis-ci.org/kaizensamuel/proyecto-IV-18-19)
