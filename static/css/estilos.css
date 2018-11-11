@@ -1,0 +1,56 @@
+.w-100{
+    height: 400px;
+}
+
+.container .row{
+    margin-top: 30px;
+    text-align: center;
+}
+
+main .tituloSeccion{
+    width: 100%;
+    max-width: 80%;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+}
+
+main .tituloSeccion p{
+    margin-top: 10px;
+}
+
+main .container .row .col-lg-4{
+    padding: 15px;
+}
+
+footer{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    background: #1a1b26;
+    color: #fff;
+}
+
+main .seccionFondo{
+    background: #f8f9fa;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+main .ofertasSeccion{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+main #carouselExampleCaptions{
+    margin: 0 auto;
+}
+
+header{
+    background: #f8f9fa;
+}
+
+header nav{
+    margin: 0 auto;
+}
