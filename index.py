@@ -1,4 +1,4 @@
-from flask import Flask, render_template, request
+from flask import Flask, render_template, request, *
 
 
 app = Flask(__name__)
@@ -12,9 +12,10 @@ def index():
 
 @app.route('/', methods = ['GET'])
 def status():
-    render_template('base.html')
+    
     response =  {"status" : "OK"}
-    return jsonify(response);
+    jsonify(response);
+    return render_template('base.html')
 
 @app.route('/status', methods = ['GET'])
 def status():
