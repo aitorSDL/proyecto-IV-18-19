@@ -11,8 +11,8 @@ DEBUG=False
 @app.route('/')
 def index():
     response =  {"status" : "OK"}
-    jsonify(response);
-    return render_template('base.html')
+    render_template('base.html')
+    return jsonify(response); 
     
 @app.route('/status')
 def status():
