@@ -10,7 +10,7 @@
 Elegí este proyoecto puesto que me resulta interesante y útil, en el cuál pueda reflejar conocimientos adquiridos en otras asignaturas y cosas aprendidas de forma libre y autodidacta.
 
 
-####Pasar los test con el comando :
+#### Pasar los test con el comando :
 
 python3 src/test*
 
