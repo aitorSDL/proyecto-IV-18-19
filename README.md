@@ -10,6 +10,12 @@
 Elegí este proyecto puesto que me resulta interesante y útil, en el cual pueda reflejar conocimientos adquiridos en otras asignaturas y cosas aprendidas de forma libre y autodidacta.
 
 
+####Pasar los test con el comando :
+
+python3 src/test*
+
+![test](/home/sam/Escritorio/iv/projecto/proyecto-IV-18-19/documentacion/img/test.png) 
+
 ### Documentación proyecto:
 
  [Documentación](https://github.com/kaizensamuel/proyecto-IV-18-19/blob/master/documentacion/README.md)
