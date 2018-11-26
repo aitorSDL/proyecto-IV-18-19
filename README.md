@@ -14,7 +14,7 @@ Elegí este proyoecto puesto que me resulta interesante y útil, en el cuál pue
 
 python3 src/test*
 
-![test](/home/sam/Escritorio/iv/projecto/proyecto-IV-18-19/documentacion/img/test.png) 
+![test](https://github.com/kaizensamuel/proyecto-IV-18-19/blob/master/documentacion/img/test.png) 
 
 ### Documentación proyecto:
 
