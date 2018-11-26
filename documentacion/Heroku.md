@@ -8,13 +8,13 @@ En este documento voy a explicar cómo  crear una aplicacion en los servidores d
 
 ##### - pip install flask gunicorn
 
-![requirements](/home/sam/Escritorio/iv/projecto/proyecto-IV-18-19/documentacion/img/requirements.jpg) 
+![requirements](https://github.com/kaizensamuel/proyecto-IV-18-19/blob/master/documentacion/img/requirements.jpg) 
 
 ####1.2.Añadimos el archivo procfile
 
 El procfile es el archivo con el que le decimos a heroku cual de todos los archivos del proyecto es el principal, el cual se va a ejecutar podriamos decir que es el main de nuestra aplicacion.
 
-![main](/home/sam/Escritorio/iv/projecto/proyecto-IV-18-19/documentacion/img/main.jpg) 
+![main](https://github.com/kaizensamuel/proyecto-IV-18-19/blob/master/documentacion/img/main.jpg) 
 
 ####1.3.Añadimos ruta / con el status OK
 
@@ -23,7 +23,7 @@ Hemos añadido dos rutas para ver que la aplicacion esta funcionando :
 - la raiz / que devuelve ok
 - /status que devuelve algunos parametros mas como el numero de productos .
 
-![index](/home/sam/Escritorio/iv/projecto/proyecto-IV-18-19/documentacion/img/index.jpg) 
+![index](https://github.com/kaizensamuel/proyecto-IV-18-19/blob/master/documentacion/img/index.jpg) 
 
 
 
@@ -34,13 +34,13 @@ Hemos añadido dos rutas para ver que la aplicacion esta funcionando :
 
 Le damos a sign up for free:
 
-![Registro](/home/sam/Escritorio/iv/projecto/proyecto-IV-18-19/documentacion/img/registro1.jpg) 
+![Registro](https://github.com/kaizensamuel/proyecto-IV-18-19/blob/master/documentacion/img/registro1.jpg) 
 
 <br>
 
 Insertamos los datos que nos pide heroku:
 
-![Registro Datos](/home/sam/Escritorio/iv/projecto/proyecto-IV-18-19/documentacion/img/registro2.jpg) 
+![Registro Datos](https://github.com/kaizensamuel/proyecto-IV-18-19/blob/master/documentacion/img/registro2.jpg) 
 
 y verificamos nuestra cuenta con el enlace enviado a nuestro correo.
 
@@ -51,13 +51,13 @@ y verificamos nuestra cuenta con el enlace enviado a nuestro correo.
 
 Le doy a create new app:
 
-![Creacion app](/home/sam/Escritorio/iv/projecto/proyecto-IV-18-19/documentacion/img/creacionapp.jpg) 
+![Creacion app](https://github.com/kaizensamuel/proyecto-IV-18-19/blob/master/documentacion/img/creacionapp.jpg) 
 
 <br>
 
 y despues tenemos que introducir el nombre y la region:
 
-![datos app](/home/sam/Escritorio/iv/projecto/proyecto-IV-18-19/documentacion/img/creacionapp1.jpg) 
+![datos app](https://github.com/kaizensamuel/proyecto-IV-18-19/blob/master/documentacion/img/creacionapp1.jpg) 
 
 
 <br>
@@ -67,7 +67,7 @@ y despues tenemos que introducir el nombre y la region:
 <br><br>
 En la pestaña deploy dentro de la aplicacion le damos a conectar con git y seleccionamos nuestro proyecto:
 
-![conectar git](/home/sam/Escritorio/iv/projecto/proyecto-IV-18-19/documentacion/img/conectarcongit.jpg) 
+![conectar git](https://github.com/kaizensamuel/proyecto-IV-18-19/blob/master/documentacion/img/conectarcongit.jpg) 
 
 <br>
 
@@ -77,11 +77,11 @@ En la pestaña deploy dentro de la aplicacion le damos a conectar con git y sele
 
 Le damos a automatizar subida cuando git tenga cambios despues de pasar los test de travisCI:
 
-![Automatizacion](/home/sam/Escritorio/iv/projecto/proyecto-IV-18-19/documentacion/img/automatizacion.jpg) 
+![Automatizacion](https://github.com/kaizensamuel/proyecto-IV-18-19/blob/master/documentacion/img/automatizacion.jpg) 
 
 
 <br>
 
 ###3. Aquí muestro la app corriendo en heroku:
 
-![status](/home/sam/Escritorio/iv/projecto/proyecto-IV-18-19/documentacion/img/statusOK.jpg) 
+![status](https://github.com/kaizensamuel/proyecto-IV-18-19/blob/master/documentacion/img/statusOK.jpg) 
