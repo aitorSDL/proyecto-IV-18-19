@@ -64,6 +64,7 @@ Hemos añadido dos rutas para ver que la aplicacion esta funcionando :
 ### Configuración de heroku.
 En el siguiente enlace podemos ver toda la configuración necesaria de heroku:
 
+[Configuración heroku](https://github.com/kaizensamuel/proyecto-IV-18-19/blob/master/documentacion/Heroku.md) 
  
 - Despliegue en heroku:
  
