@@ -50,7 +50,7 @@ El procfile es el archivo con el que le decimos a heroku cual de todos los archi
 		
 		pip install -r requirements.txt # Para instalar las dependencias
 
-![main](https://github.com/kaizensamuel/proyecto-IV-18-19/blob/master/documentacion/img/main.jpg) 
+
 
 #### Añadimos ruta / con el status OK
 
