@@ -1,15 +1,6 @@
 
 [![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
 
-# Documentación herramientas a usar
-## Herramientas a usar.
-
- - Como lenguaje de programación usaré python, puesto que lo dí en una asignatura en años anteriores y creo que tiene un gran potencial y versatilidad.
- - MongoDB para la gestión de productos y usuarios. Por su rapidez y adaptabilidad ante grandes cantidades de datos.
- - Como framework usaré flask. Puesto que su sencillez permite crear aplicaciones web rápidamente y con un mínimo número de líneas de código.
- - Usaré heroku para el despliegue de la aplicación. Puesto que me parece interesante este servicio de cloud computing y aprender a manejarme con él.
- - Gunicorn para automatizar la subida a Heroku
- - Jinja 2 para los templates HTML.
 
 ## Clases a usar en este proyecto:
 
